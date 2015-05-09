@@ -1,0 +1,7 @@
+List
+Obj
+*.bak
+*.tmp
+*.Bak
+*.dep
+*.uvopt
